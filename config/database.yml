@@ -23,6 +23,6 @@ production:
   encoding: utf8
   database: aainbmph2molun
   username: ebroot
-  password: xrcyy2
+  password: gandalf1212
   host: aainbmph2molun.cxzuqz2oeodd.us-east-1.rds.amazonaws.com
   port: 3306
